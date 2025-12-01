@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Train, Plane, MapPin, Calendar, Euro, Users, ArrowRight } from 'lucide-react';
+import { Train, Plane, Calendar, Euro, Users, ArrowRight } from 'lucide-react';
 
 const BecomeTravelerPage = () => {
   const navigate = useNavigate();
